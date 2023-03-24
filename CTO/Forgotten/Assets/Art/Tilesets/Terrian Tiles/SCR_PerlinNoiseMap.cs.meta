@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b663a464cbe537b47a7c5520f9988772
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab_sea: {fileID: 385071929268805413, guid: 3f6e4972486c910439dbf1be7f5d1abc, type: 3}
+  - prefab_grassland: {fileID: 369209910746263582, guid: 0079c4a3fc62e2c44aea90fe0e579a68, type: 3}
+  - prefab_forest: {fileID: 2535354500878923958, guid: 7189e743be754b047a2fd4774e647dfb, type: 3}
+  - prefab_mountain: {fileID: 5890964557207127694, guid: bc1ce24ad14dd854e9e35148279b5ddb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
